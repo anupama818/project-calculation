@@ -1,6 +1,6 @@
 
-def add_numbers(a, b):
-    return  a+b
+def add_numbers(c, d):
+    return  c+d
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
